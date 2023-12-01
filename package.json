@@ -29,6 +29,7 @@
     "devicons-react": "^1.2.6",
     "framer-motion": "^10.16.4",
     "moment-timezone": "^0.5.43",
+    "mongoose": "^8.0.2",
     "next": "^13.4.13",
     "next13-progressbar": "^1.1.0",
     "openai": "^3.3.0",
